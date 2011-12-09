@@ -25,7 +25,7 @@ Step 1 - Create your project
 	New python executable in ./bin/python
 	Installing setuptools............done.
 
-Before running pip (or your application), you’ll need to source the Virtualenv environment:
+Before running pip (or your application), you’ll need to source the Virtualenv environment::
 
 	$ source bin/activate
 
